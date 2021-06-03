@@ -1,0 +1,4 @@
+"Space Invaders"
+1600 1300
+144
+false
